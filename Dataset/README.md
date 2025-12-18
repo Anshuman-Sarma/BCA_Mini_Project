@@ -17,7 +17,9 @@ Due to the large size of the dataset (8,683 images), it is not uploaded directly
 The complete dataset can be accessed from the Google Drive link below:
 
 
+
 https://drive.google.com/drive/folders/1Ivg8vUa4krO20pEOuOCx6M8kiMfK36TM?usp=drive_link
+
 
 
 Copy and Paste the above link in any browser to open the dataset.
@@ -61,14 +63,16 @@ Classes             :
 DATA DISTRIBUTION USED IN THE PROJECT
 
 
-Training Set:
+Training Set --
+
 
 Fractured Images     : 4,384
 
 Non-Fractured Images : 4,299
 
 
-Validation Set:
+Validation Set --
+
 
 Fractured Images     : 360
 
@@ -114,6 +118,7 @@ results, refer to the main project report (PDF).
 
 
 ==================================================
+
 
 
 END OF DATASET README
